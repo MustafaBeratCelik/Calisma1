@@ -5,6 +5,13 @@ head {
     font-size: 20px;
     font-style: italic;
     border: salmon solid 20px;
-    
+}
 
+head>p {
+    color: sienna;
+
+}
+
+h2 {
+    color: springgreen;
 }
